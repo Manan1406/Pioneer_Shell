@@ -1,0 +1,1 @@
+I used AI to help understand how getcwd works
